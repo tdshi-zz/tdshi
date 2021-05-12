@@ -26,4 +26,3 @@
 <h4>🌱 What i want to learn in the near future...</h4>
 <p >
   <img src="https://img.shields.io/badge/swift%20-%23339933.svg?style=for-the-badge&logo=swift&logoColor=red" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/rust%20-%23339933.svg?style=for-the-badge&logo=rust&logoColor=red" />&nbsp;&nbsp; <img src="https://img.shields.io/badge/docker%20-%23339933.svg?style=for-the-badge&logo=docker&logoColor=red" /></p>
-<hr>
