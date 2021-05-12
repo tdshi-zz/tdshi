@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm tdshi  👨‍💻 </h1>
 
 <p align='center'>
-  I´m currently working on my thesis dissertation in CS
+  I´m currently working on my bachelor dissertation in CS
 </p>
 
 <hr>
